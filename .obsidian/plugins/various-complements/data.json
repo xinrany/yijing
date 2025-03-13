@@ -1,0 +1,99 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "阴阳五行": {
+      "阴阳五行": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1740945596874
+        }
+      }
+    },
+    "例：东汉光武帝建武二十九年（公元53年）冬至月（近似农历十一月）为“甲子月”。": {
+      "例：东汉光武帝建武二十九年（公元53年）冬至月（近似农历十一月）为“甲子月”。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1741647375112
+        }
+      }
+    },
+    "天一生水，地六成之：地球观测到的水星在十月历的一月与六月": {
+      "天一生水，地六成之：地球观测到的水星在十月历的一月与六月": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1741799603674
+        }
+      }
+    },
+    "天三生木，地八成之。地四生金，天九成之。天五生土，地十成之": {
+      "天三生木，地八成之。地四生金，天九成之。天五生土，地十成之": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1741799689874
+        }
+      }
+    },
+    "基于五色之气经过二十八星宿的位置，解释十天干如何化为五运。进一步发展：宋代刘温舒在《素问入式运气论奥》中了这一理论，认为：": {
+      "基于五色之气经过二十八星宿的位置，解释十天干如何化为五运。进一步发展：宋代刘温舒在《素问入式运气论奥》中了这一理论，认为：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1741802766746
+        }
+      }
+    },
+    "形成五运的整体规律": {
+      "形成五运的整体规律": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1741802822398
+        }
+      }
+    }
+  }
+}

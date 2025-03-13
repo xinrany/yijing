@@ -1,0 +1,12 @@
+{
+  "accentColor": "#3e7550",
+  "theme": "moonstone",
+  "cssTheme": "",
+  "interfaceFontFamily": "Optima",
+  "textFontFamily": "FZSongKeBenXiuKaiS-R-GB,BiauKai,FZShuSong-Z01",
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "mark2",
+    "mark1"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "highlightr-plugin:海蓝",
+      "name": "Highlightr: 海蓝",
+      "icon": "highlightr-pen-海蓝"
+    },
+    {
+      "id": "highlightr-plugin:龙井",
+      "name": "Highlightr: 龙井",
+      "icon": "highlightr-pen-龙井"
+    },
+    {
+      "id": "highlightr-plugin:梅子",
+      "name": "Highlightr: 梅子",
+      "icon": "highlightr-pen-梅子"
+    },
+    {
+      "id": "highlightr-plugin:鹅黄",
+      "name": "Highlightr: 鹅黄",
+      "icon": "highlightr-pen-鹅黄"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "editor:toggle-blockquote",
+      "name": "Toggle blockquote",
+      "icon": "lucide-quote"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "workspace:undo-close-pane",
+      "name": "Undo close tab",
+      "icon": "lucide-undo-2",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "T"
+        }
+      ]
+    }
+  ],
+  "appendMethod": "body",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}

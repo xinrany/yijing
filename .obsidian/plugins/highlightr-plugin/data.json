@@ -1,0 +1,34 @@
+{
+  "highlighterStyle": "none",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Red": "#FF5582A6",
+    "Orange": "#FFB86CA6",
+    "Yellow": "#FFF3A3A6",
+    "Green": "#BBFABBA6",
+    "Cyan": "#ABF7F7A6",
+    "Blue": "#ADCCFFA6",
+    "Purple": "#D2B3FFA6",
+    "Grey": "#CACFD9A6",
+    "海蓝": "#B7D2F266",
+    "龙井": "#CBCF8A66",
+    "鹅黄": "#F1C92F66",
+    "梅子": "#B5495B33"
+  },
+  "highlighterOrder": [
+    "海蓝",
+    "龙井",
+    "梅子",
+    "鹅黄",
+    "Pink",
+    "Red",
+    "Orange",
+    "Yellow",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Purple",
+    "Grey"
+  ]
+}

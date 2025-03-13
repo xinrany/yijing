@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e7882d81cf685423",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e2868495800ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95f9b8a3cf5db10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11易理基础/干支合冲刑克.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "干支合冲刑克"
+            }
+          },
+          {
+            "id": "7af6935f6b8cce51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11易理基础/干支历.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "干支历"
+            }
+          },
+          {
+            "id": "e80b55a5209c2794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11易理基础/天干地支.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天干地支"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee192cebcdcd952",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77cbdbd20db9e227",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3cc527fb90ca79ec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "05a29f70c7c36ed9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6d0b03e5c6a756e5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0d4a3e0ab2c7b2c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60c745f235ff4fc5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "易理/干支历.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "720bc8175e93db96",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "周易/卦象.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "35724b2d45338291",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "周易/卦象.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "f95f9b8a3cf5db10",
+  "lastOpenFiles": [
+    "32图片/节气太极.jpeg",
+    "32图片/六十四卦节气2.png",
+    "11易理基础/天干地支.md",
+    "11易理基础/干支合冲刑克.md",
+    "11易理基础/干支历.md",
+    "易理/阴阳五行.md",
+    "易理/干支历.md",
+    "attachment/IMG_6756.jpeg",
+    "attachment/IMG_6755.gif",
+    "attachment/IMG_6754.jpeg",
+    "attachment/IMG_6753.png",
+    "attachment",
+    "易理/易经64卦.pdf",
+    "01随记/红楼梦随记.md"
+  ]
+}
